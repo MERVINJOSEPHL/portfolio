@@ -1,0 +1,49 @@
+body{
+    padding: 0px ;
+    background-color: aqua;
+}
+img {
+    background-repeat: no-repeat;
+    background-position: 25%;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+#head{
+    font-family: onospace;
+    background-color: black;
+    color: white;
+    margin-top : 0.1%;
+    letter-spacing: 0.3em;
+   
+}
+#head:hover{
+    text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;
+    opacity: 0.5;
+
+}
+#tab{
+    background-color: gray;
+    text-align: center;
+
+}
+#side1{
+    text-decoration: underline wavy;
+    text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;  
+}
+#n1{
+background-color: pink;
+margin-left: 2%;
+margin-right: 2%;
+margin-top: 2%;
+
+}
+#name1{
+    margin-left:-35%;
+    margin-top:-13%;
+}
+#n4{
+    margin-left:20%;
+}
